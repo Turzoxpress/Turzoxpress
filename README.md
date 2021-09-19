@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Turzoxpress
+- 👋 Hi, I’m Mahbubur Rahman Turzo
 - 👀 I’m interested in Relaxing
 - 🌱 I’m currently learning something interesting to me!
 - 💞️ I’m looking to collaborate on any Python-Django backend project
