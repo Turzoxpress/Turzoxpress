@@ -7,6 +7,7 @@
  * iOS (Native)
  * Game Development (Unity 3D)
  * Server Management or DevOps (Amazon EC2, Google Cloud, Docker)
+ * Robotics & IoT
  
 # 🐍 Languages I am proficient with:
  * Python
