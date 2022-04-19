@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mahbubur Rahman Turzo
 
-# My current skill are:
+# My current skills are:
  * Backend (Python Django, Nodejs, Express)
  * Frontend (React)
  * Android (Native)
