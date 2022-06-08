@@ -2,6 +2,7 @@
 
 # My current skills are:
  * Backend (Python, Django, Flask, Nodejs, Express)
+ * React & React Native
  * Android (Native)
  * iOS (Native)
  * Game Development (Unity 3D)
