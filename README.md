@@ -3,11 +3,11 @@
 # ------ Find Me -------------
  * Email : turzoxpress@gmail.com
  * Website : www.turzo.org
- * Github : github.com/Turzoxpress
- * LinkedIn: linkedin.com/in/turzoxpress
+ * Github : www.github.com/Turzoxpress
+ * LinkedIn: www.linkedin.com/in/turzoxpress
  * Portfolio : https://turzoxpress.github.io/portfolio
  * Resume : https://turzoxpress.github.io/resume
- * Facebook:  facebook.com/MahbuburRahmanTurzo
+ * Facebook:  www.facebook.com/MahbuburRahmanTurzo
 
 # My current skills are:
  * Backend (Nodejs-Express, Python-Django, Python-Flask)
