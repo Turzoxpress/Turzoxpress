@@ -2,7 +2,7 @@
 
 # ------ Find Me -------------
  * Email : turzoxpress@gmail.com
- * Website : www.turzo.org
+ * Website : https://turzoxpress.github.io/portfolio
  * Github : www.github.com/Turzoxpress
  * LinkedIn: www.linkedin.com/in/turzoxpress
  * Portfolio : https://turzoxpress.github.io/portfolio
